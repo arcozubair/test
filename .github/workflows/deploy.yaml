@@ -27,5 +27,4 @@ jobs:
             npm install
             npm run build
             pm2 restart app # (if you are using pm2 to manage the app)
-          EOF
-git ad 
+          EOF 
